@@ -55,14 +55,38 @@ Unauthorized commercial software implementation, reverse-engineering, or utiliza
 
 ---
 
-## 💬 Community Discussions & Inquiries
-We welcome open academic research, policy feedback, and strategic inquiries from sovereign regulators, AI safety boards, and enterprise compliance architectures.
+If you use this work in research, regulatory analysis, or examination, please cite:
 
-Please visit the **Discussions** tab at the top of this repository to share insights on temporal architecture, or contact the author directly for enterprise licensing and pilot documentation.
+@misc{chang2026governancelayer,
+  author       = {Chang, Dario},
+  title        = {Governance-Layer Primitive for Autonomous Agents (2003--2026)},
+  year         = {2026},
+  month        = {June},
+  howpublished = {\url{https://github.com/Dario-Chang/governance-layer-primitive}},
+  note         = {Includes lexicon, glossary, conceptual mapping, lineage, architecture diagram, and regulator brief},
+}
 
-* **Author:** Dario Chang
-* **Focus:** Temporal Dynamics & AI Agent Governance
-* **Inquiries:*INFO DARIOCH.COM
+
+@techreport{chang2026whitepaper,
+  author      = {Chang, Dario},
+  title       = {Governance-Layer Architecture for Autonomous Agents: Whitepaper and Technical Framework},
+  institution = {Independent Research},
+  year        = {2026},
+  month       = {June},
+  url         = {https://github.com/Dario-Chang/governance-layer-primitive/blob/main/GovernanceLayer_Primitive_2003_2026.md},
+  note        = {Merged document including Academic Abstract, Architecture Diagram, Whitepaper, and Regulator Brief},
+}
+
+
+
+@misc{chang2003to2026lineage,
+  author       = {Chang, Dario},
+  title        = {Lineage of the Governance-Layer Primitive (2003--2026)},
+  year         = {2026},
+  howpublished = {\url{https://github.com/Dario-Chang/governance-layer-primitive/blob/main/Lineage.md}},
+  note         = {Maps the 2003 Cycle Hits / Hits History primitive to the 2026 governance-layer architecture},
+}
+
 
 
 
