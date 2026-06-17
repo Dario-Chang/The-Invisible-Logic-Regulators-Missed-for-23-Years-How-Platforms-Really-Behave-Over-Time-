@@ -212,6 +212,9 @@ Each entry includes a direct citation to the 2003 publication.
 2003: “Clients waiting list… bidding between participants…” [0036]
 2026: Fairness, conflict resolution, and regulator‑auditable arbitration.
 
+## Related Work
+For the full governance-layer primitive (2003 → 2026), see:
+https://github.com/Dario-Chang/governance-layer-primitive
 
 
 
