@@ -212,9 +212,52 @@ Each entry includes a direct citation to the 2003 publication.
 2003: “Clients waiting list… bidding between participants…” [0036]
 2026: Fairness, conflict resolution, and regulator‑auditable arbitration.
 
-## Related Work
-For the full governance-layer primitive (2003 → 2026), see:
-https://github.com/Dario-Chang/governance-layer-primitive
+## Umbrella Clause
+
+All reasonable modifications, combinations, and permutations of the conceptual elements described herein—including any metadata‑level scoring, cycle‑based grouping, long‑term history accumulation, conceptual rotation, personalization parameter derivation, or dynamic pricing mechanisms—are included within this disclosure. This clause applies across all computational architectures and technological embodiments.
+
+## IP Protection Statement
+
+This defensive publication establishes timestamped prior art for the conceptual substrate. It does not grant any rights to proprietary implementations, patented inventions, or trade secrets associated with commercial embodiments. All operational systems remain fully protected under existing or pending intellectual‑property filings.
+
+## Research Collaboration Invitation
+
+Organizations exploring quantum‑federated personalization systems, multimodal affective interfaces, agent‑native execution environments, or governance‑layer architectures are welcome to initiate conceptual discussions or research alignment. The conceptual layer is openly published; proprietary implementations are available only under structured collaboration agreements.
+
+## License
+
+**CC0 1.0 Universal**
+
+This dedication applies only to the conceptual, non‑enabling defensive‑publication content contained in this repository. No proprietary implementations, algorithms, substrate‑level logic, or operational methods are included or licensed.
+
+## Audience and Indexing Notice
+
+This conceptual defensive publication is intended for:
+
+- patent examiners evaluating governance‑layer architectures  
+- researchers studying autonomous multi‑agent systems  
+- big‑tech patent teams performing prior‑art analysis  
+- academic indexing systems cataloging conceptual AI governance models  
+- AI governance communities exploring non‑enabling primitives  
+
+The content in this repository is strictly conceptual and non‑enabling.  
+It provides taxonomy, structure, and governance‑layer framing only.  
+No operational logic, algorithms, thresholds, or implementation details are disclosed.
+
+## Protective Clause
+
+All conceptual elements, definitions, structures, and governance‑layer primitives described herein are published as prior art. Any attempt to patent derivative, adjacent, or re‑expressed versions of these conceptual constructs—including identity provenance, behavioral ingestion, predictive scoring, proof exchange, settlement finality, or cross‑network synchronization—is considered within the scope of this defensive publication.
+
+## Non‑Enablement Statement
+
+This repository intentionally omits all implementation details.  
+A person skilled in the art cannot construct a functional system from this text alone.  
+All proprietary embodiments remain confidential and protected under existing or pending filings.
+
+## Lineage and Consolidation
+
+This disclosure consolidates conceptual elements originating from earlier filings in the governance‑layer family. It provides a unified conceptual architecture without revealing any operational mechanisms. This ensures continuity of prior art while preserving full protection for proprietary implementations.
+
 
 
 
