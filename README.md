@@ -184,6 +184,18 @@ This repository:
 This publication establishes the complete architectural and topological framework for the governance‑layer substrate. It explicitly defines the interactions, state transitions, and conceptual boundaries of the system. To protect proprietary trade secrets, this document omits localized execution mechanics (e.g., specific algorithms, dynamic weighting functions, and cryptographic token schemas).  
 This disclosure establishes the state of the art for the architecture itself, independent of any specific computational embodiment.
 
+
+License
+
+**CC0 1.0 Universal**
+
+This dedication applies only to the conceptual defensive‑publication content contained in this repository.  
+It provides architecture, terminology, and conceptual framing only.  
+No proprietary implementations, algorithms, substrate‑level logic, or operational methods are included or licensed.
+
+Proprietary embodiments of the governance‑layer and telemetry primitives remain protected under existing or pending patent filings.  
+This repository does not grant rights to any commercial, technical, or runtime implementations.
+**
 ---
 
 ⚜️ **Dario Chang**  
