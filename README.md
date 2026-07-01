@@ -1,263 +1,191 @@
-# The Invisible Logic Regulators Missed for 23 Years: How Platforms Really Behave Over Time
+# Governance‑Layer Primitive & Deterministic Telemetry State Machine  
+## A Universal Governance Substrate for Autonomous Agents (2003 → 2026)
 
-## Executive Summary
-This repository introduces a neutral, non-technical governance-layer framework to understand the **temporal architecture** underlying modern digital platforms and autonomous AI systems. 
+This repository presents a unified conceptual framework combining:
 
-For over two decades, digital regulation has focused strictly on static metrics: content moderation, market structure, data access, and competition rules. However, digital platforms do not operate in a vacuum—they behave according to **temporal signals** that repeat, accumulate, and rotate over time. This invisible temporal layer dictates ranking, amplification, trust, and AI agent behavior. 
+- the Governance‑Layer Primitive (EP26188264.1)  
+- the Compliance‑Layer Operating System (EP26188282.3)  
+- the Deterministic Telemetry State‑Machine Primitive  
+- the 2003 → 2026 conceptual lineage  
 
-*Note: This repository serves as a conceptual lens for regulators, researchers, and industry teams. It is not an algorithm, a technical disclosure, or a patent specification.*
-
----
-
-## 🕒 Why Temporal Architecture Matters
-Every digital ecosystem—from legacy search engines and social recommendation feeds to modern multi-turn AI agents—relies on time-based signals to determine:
-* What gets **ranked** and **amplified**
-* What becomes **trusted** or **suppressed**
-* How autonomous agents **behave**, **adapt**, and **coordinate**
-
-Without a temporal governance lens, regulatory compliance enforcement (including the EU AI Act, DMA, FTC algorithmic transparency audits, and DOJ antitrust analysis) will continue to face systemic blind spots.
+This repository contains no algorithms, pseudocode, or implementation details.  
+It provides architecture, terminology, and conceptual structure only.
 
 ---
 
-## 🧬 The Three Temporal Primitives
-First conceptualized in 2003, this framework maps platform dynamics over time through three universal primitives:
+## 1. Purpose of This Repository
 
-### A. Cycle Hit (Recurrence)
-Captures repeated user or agent behavior across specific time intervals. It identifies recurring patterns, driving engagement loops, ranking reinforcement, and behavioral predictability.
+This unified repository provides:
 
-### B. History Score / History Value (Accumulation)
-Represents the structural accumulation of past behavior over time. This acts as the temporal memory of the system, determining how trust, relevance, and algorithmic authority build up or decay.
+- A deterministic state‑machine primitive for agent telemetry  
+- A governance‑layer primitive for behavioural predictability  
+- A compliance‑layer operating system for supervisory oversight  
+- A clear conceptual lineage from the 2003 behavioural‑governance primitive  
+- Terminology aligned with modern AI governance frameworks  
 
-### C. Rotation Groups (Structured Change)
-Describes how items, users, or data signals are cycled, rotated, or re-ordered over time. This is the platform’s mechanism for structured variance, preventing systemic stagnation, ensuring fresh data delivery, and enabling adaptive behavior.
+It is intended for:
 
----
+- Patent examiners (USPTO, EPO)  
+- EU AI Office & DG CONNECT  
+- NIST & national regulators  
+- AI governance researchers  
 
-## ⚠️ Lineage & Intellectual Property Notice
-The core terminology—**Cycle Hit**, **History Score**, and **Rotation Groups**—reflects a conceptual framework first developed in 2003 to describe temporal behavior in digital systems. 
-
-**ALL RIGHTS RESERVED. PROPRIETARY AND CONFIDENTIAL.**
-This repository presents these ideas exclusively in a high-level, structural governance form to support regulatory clarity. It does not reproduce technical code, implementation details, or claim-level material. Advanced, production-ready technical implementations of this temporal governance framework are protected under published United States Patent Applications:
-* **U.S. Patent Application Publication No. 20260070215**
-* **U.S. Patent Application Publication No. 20260127578**
-
-Unauthorized commercial software implementation, reverse-engineering, or utilization of these temporal primitives within runtime safety architectures without an explicit commercial license from the author constitutes patent infringement.
+The purpose is conceptual clarity.
 
 ---
 
-## 🏛️ Regulatory & Strategic Application
+## 2. Background and Lineage (2003 → 2026)
 
-| Regulatory Focus | The Temporal Blind Spot | The Temporal Solution |
-| :--- | :--- | :--- |
-| **EU AI Act (Arts 5 & 15)** | Opaque model drift and autonomous agent manipulation over time. | Auditing the system's *History Score* to trace behavioral deviation continuously. |
-| **DMA & Antitrust (DOJ/CMA)** | Unfair self-preferencing hidden inside dynamic, moving ranking feeds. | Evaluating *Rotation Groups* to guarantee structurally fair data allocation. |
-| **Algorithmic Transparency (FTC)**| Fraudulent automation, Sybil bot networks, and token manipulation. | Utilizing *Cycle Hit* metrics to flag anomalous, non-human repetition loops. |
+The 2003 Telemetric primitive introduced foundational behavioural‑governance concepts:
+
+- Behavioural ingestion  
+- Cyclical interaction patterns  
+- Predictive scoring  
+- Identity‑linked accounts  
+- Rotation and synchronization  
+- Settlement logic  
+- Fairness and arbitration mechanisms  
+
+These concepts form the earliest behavioural governance substrate.
+
+The 2026 architecture extends these ideas into:
+
+- Deterministic state‑machine telemetry  
+- Agent Identity Envelope (AIE)  
+- Behaviour Ingestion Pipeline (BIP)  
+- Cyclical Behavioural Vectors (CBV)  
+- Predictive scoring (AIPS)  
+- Proof exchange (A2APEP)  
+- Settlement Engine  
+- Synchronization Layer  
+- Compliance‑Layer Operating System  
+
+These 2026 concepts introduce **new conceptual dimensions not present in the 2003 framework**, including:
+
+- multi‑agent coordination  
+- supervisory compliance  
+- regulator‑auditable telemetry  
+- EU AI Act alignment  
 
 ---
 
-If you use this work in research, regulatory analysis, or examination, please cite:
+## 3. Alignment with the EU AI Act (Conceptual Mapping)
 
-@misc{chang2026governancelayer,
-  author       = {Chang, Dario},
-  title        = {Governance-Layer Primitive for Autonomous Agents (2003--2026)},
-  year         = {2026},
-  month        = {June},
-  howpublished = {\url{https://github.com/Dario-Chang/governance-layer-primitive}},
-  note         = {Includes lexicon, glossary, conceptual mapping, lineage, architecture diagram, and regulator brief},
-}
+This architecture supports conceptual alignment with multiple EU AI Act obligations.  
+This mapping is non‑technical and does not define patent scope.
 
+### Article 5 — Prohibited Practices  
+Structural behavioural constraints for agent safety.
 
-@techreport{chang2026whitepaper,
-  author      = {Chang, Dario},
-  title       = {Governance-Layer Architecture for Autonomous Agents: Whitepaper and Technical Framework},
-  institution = {Independent Research},
-  year        = {2026},
-  month       = {June},
-  url         = {https://github.com/Dario-Chang/governance-layer-primitive/blob/main/GovernanceLayer_Primitive_2003_2026.md},
-  note        = {Merged document including Academic Abstract, Architecture Diagram, Whitepaper, and Regulator Brief},
-}
+### Article 7 — High‑Risk Classification  
+Behavioural substrate enabling consistent classification of high‑risk agent behaviour.
 
+### Article 9 — Risk Management  
+Recurrent risk scoring cycles and distributed mitigation pathways.
 
+### Article 10 — Data Governance  
+Behavioural signals complement data governance without accessing training data.
 
-@misc{chang2003to2026lineage,
-  author       = {Chang, Dario},
-  title        = {Lineage of the Governance-Layer Primitive (2003--2026)},
-  year         = {2026},
-  howpublished = {\url{https://github.com/Dario-Chang/governance-layer-primitive/blob/main/Lineage.md}},
-  note         = {Maps the 2003 Cycle Hits / Hits History primitive to the 2026 governance-layer architecture},
-}
+### Article 12 — Record‑Keeping  
+Traceable behavioural logs and verifiable evidence bundles.
 
+### Article 13 — Transparency  
+Explainability anchors and structured decision‑trace outputs.
 
-Lexicon of Core Concepts (2003 → 2026)
-This lexicon maps terminology from the 2003 patent publication (filed 2003‑11‑04, published 2004) to the terminology used in the 2026 Governance‑Layer Architecture for Autonomous Agents.
+### Article 14 — Human Oversight  
+Supervisory mechanisms supporting human‑in‑the‑loop and human‑on‑the‑loop models.
 
-Each mapping includes direct citations from the 2003 specification to strengthen historical continuity and credibility.
+### Article 15 — Accuracy, Robustness & Cybersecurity  
+Predictive stability, deviation detection, and adversarial‑resilience structures.
 
-1. Cycle Hits → Cyclical Behavioral Vectors (CBV)
-2003 citations:
+### Article 56 — Post‑Market Monitoring  
+Continuous behavioural monitoring and conformity‑aligned reporting.
 
-“Cycle Hits History began with the placement of Ads… continuous Hits… creates a score value…” [Claim 4]
-“Cycle Hits History… continuous rise of Ad’s cost…” [Claim 10]
-2026 equivalent:
+---
 
-Cyclical Behavioral Vectors (CBV)
-Temporal behavior signatures
-Repetitive interaction cycles
-2. Hits History → Behavior Ingestion Pipeline (BIP)
-2003 citations:
+## 4. U.S. & International Citation Context
 
-“Hits History score value… tracked and stored in a server database…” [Claim 2]
-“Automatic Hits History score generates a value…” [0048]
-2026 equivalent:
+The 2003 Telemetric primitive has been cited by 109+ patents across:
 
-Behavior Ingestion Pipeline (BIP)
-Time‑decayed interaction vectors
-Behavioral provenance
-3. Score Value → Agent Importance Prediction Score (AIPS)
-2003 citations:
+- United States  
+- Europe  
+- China  
+- International WO filings  
 
-“Score value… influences the cost… determines group placement…” [0039]
-“Score value can be measured in points… computed in a server network database…” [0060]
-2026 equivalent:
+Citing entities include:
 
-AIPS (Agent Importance Prediction Score)
-Predictive scoring
-Reputation + behavior fusion
-4. Rotation Groups → Rotation Policies / Rotation Sets
-2003 citations:
+- Google  
+- Amazon  
+- Yahoo  
+- Baidu  
+- Pubwise  
+- Magnite  
+- Chandler Wilkinson LLC  
+- Subly Media  
 
-“Rotation group score value…” [0042]
-“Rotation system into each group to create a dynamic placement…” [0043]
-“Exchange group rotation system… between search engine participants…” [0032]
-2026 equivalent:
+A public record of the 2003 patent is available on Lens.org:  
+https://www.lens.org/lens/search/patent/list?q=US20040133469A1
 
-Rotation Policies
-Rotation Sets
-Agent rotation groups
-5. Grouping Accounts → Identity Envelope + Segmentation Layer
-2003 citations:
+---
 
-“Accounts with similar Hits History… grouped, tracked, stored…” [0042]
-“Each client has one unique account identifier…” [0039]
-2026 equivalent:
+## 5. Lexicon Mapping (2003 → 2026)
 
-Agent Identity Envelope (AIE)
-Segmentation Layer
-Identity provenance
-6. Partner Network Rotation → Cross‑Agent Synchronization Layer
-2003 citations:
+> **Conceptual Disclaimer:**  
+> This lexicon is strictly conceptual and intended for high‑level educational and policy‑oriented discussions.  
+> It does not define, limit, interpret, or imply the technical scope or claims of either the 2003 prior art (US20040133469A1) or the 2026 applications (EP26188264.1, EP26188282.3).  
+> It describes conceptual evolution, not functional equivalence or claim interpretation.
 
-“Exchange group rotation system… between search engine participants…” [0032]
-“Common database… rotation through a list of participants…” [0032]
-2026 equivalent:
+| 2003 Term | 2026 Conceptual Successor | Evolutionary Shift |
+|----------|----------------------------|--------------------|
+| Cycle Hits | Cyclical Behavioural Vectors (CBV) | From simple interactions → structured behavioural events |
+| Hits History | Behaviour Ingestion Pipeline (BIP) | From static logs → dynamic behavioural memory |
+| Score Value | Agent Importance Prediction Score (AIPS) | From point metric → predictive multi‑factor scoring |
+| Rotation Groups | Rotation Policies | From placement rotation → fairness‑aligned governance rotation |
+| Grouping Accounts | Agent Identity Envelope (AIE) | From account grouping → identity provenance |
+| Partner Network Rotation | Synchronization Layer | From participant rotation → cross‑agent state propagation |
+| Entry Fee / Pricing | Settlement Engine | From cost dynamics → threshold validation & finality |
+| Waiting List / Bidding | Arbitration Layer | From bidding → fairness & regulator‑auditable arbitration |
 
-Cross‑Agent Synchronization Layer
-Federated network synchronization
-Merkle‑anchored state propagation
-7. Entry Fee / Pricing Dynamics → Settlement Engine
-2003 citations:
+---
 
-“Entry fee related to group… cost rises in relation to score value…” [0041]
-“Conversion ratio… cost to keep the Ad listed…” [0062]
-2026 equivalent:
+## 6. Scope of the Primitive
 
-Agent‑Level Settlement Engine
-Threshold validation
-Atomic commit
-Finality proofs
-8. Waiting List / Bidding → Arbitration + Regulator APIs
-2003 citations:
+The unified primitive provides:
 
-“Clients waiting list… bidding between participants…” [0036]
-“Search engine participants can post offers…” [0036]
-2026 equivalent:
+- Deterministic state transitions  
+- Canonical telemetry outputs  
+- Cross‑agent verifiability  
+- Regulator‑auditable artifacts  
+- A universal governance substrate  
 
-Arbitration Layer
-Regulator APIs
-Selective disclosures
-Fairness enforcement
-Sub‑Extract: Examiner‑Optimized Quick Mapping (2003 → 2026)
-This section provides a compressed version of the full lexicon for rapid examination and classification.
-Each entry includes a direct citation to the 2003 publication.
+Applicable to:
 
-1. Cycle Hits → Cyclical Behavioral Vectors (CBV)
-2003: “Cycle Hits History… continuous Hits… creates a score value…” [Claim 4]
-2026: Temporal behavioral cycles used for agent telemetry.
+- Local agents  
+- Cloud systems  
+- Federated networks  
+- Multi‑agent environments  
 
-2. Hits History → Behavior Ingestion Pipeline (BIP)
-2003: “Hits History score value… tracked and stored in a server database…” [Claim 2]
-2026: Event ingestion and time‑decayed behavioral vectors.
+---
 
-3. Score Value → Agent Importance Prediction Score (AIPS)
-2003: “Score value… measured in points… computed in a server network database…” [0060]
-2026: Predictive scoring combining behavior, reputation, and verification.
+## 7. Notes on Disclosure
 
-4. Rotation Groups → Rotation Policies
-2003: “Rotation group score value… dynamic placement…” [0042–0043]
-2026: Deterministic rotation policies for agent positioning and fairness.
+This repository:
 
-5. Unique Account Identifier → Agent Identity Envelope (AIE)
-2003: “Each client has one unique account identifier…” [0039]
-2026: Canonical identity container with provenance and capability profile.
+- Does not disclose algorithms  
+- Does not include pseudocode  
+- Does not include implementation details  
+- Does not introduce new matter  
+- Provides conceptual documentation only  
 
-6. Exchange Group Rotation → Synchronization Layer
-2003: “Exchange group rotation system… common database…” [0032]
-2026: Cross‑agent synchronization and state propagation.
+---
 
-7. Entry Fee / Cost Dynamics → Settlement Engine
-2003: “Entry fee… cost rises in relation to score value…” [0041]
-2026: Threshold validation, atomic commit, and finality proofs.
+## 8. Scope of Conceptual Disclosure
 
-8. Waiting List / Bidding → Arbitration Layer
-2003: “Clients waiting list… bidding between participants…” [0036]
-2026: Fairness, conflict resolution, and regulator‑auditable arbitration.
+This publication establishes the complete architectural and topological framework for the governance‑layer substrate. It explicitly defines the interactions, state transitions, and conceptual boundaries of the system. To protect proprietary trade secrets, this document omits localized execution mechanics (e.g., specific algorithms, dynamic weighting functions, and cryptographic token schemas).  
+This disclosure establishes the state of the art for the architecture itself, independent of any specific computational embodiment.
 
-## Umbrella Clause
+---
 
-All reasonable modifications, combinations, and permutations of the conceptual elements described herein—including any metadata‑level scoring, cycle‑based grouping, long‑term history accumulation, conceptual rotation, personalization parameter derivation, or dynamic pricing mechanisms—are included within this disclosure. This clause applies across all computational architectures and technological embodiments.
-
-## IP Protection Statement
-
-This defensive publication establishes timestamped prior art for the conceptual substrate. It does not grant any rights to proprietary implementations, patented inventions, or trade secrets associated with commercial embodiments. All operational systems remain fully protected under existing or pending intellectual‑property filings.
-
-## Research Collaboration Invitation
-
-Organizations exploring quantum‑federated personalization systems, multimodal affective interfaces, agent‑native execution environments, or governance‑layer architectures are welcome to initiate conceptual discussions or research alignment. The conceptual layer is openly published; proprietary implementations are available only under structured collaboration agreements.
-
-## License
-
-**CC0 1.0 Universal**
-
-This dedication applies only to the conceptual, non‑enabling defensive‑publication content contained in this repository. No proprietary implementations, algorithms, substrate‑level logic, or operational methods are included or licensed.
-
-## Audience and Indexing Notice
-
-This conceptual defensive publication is intended for:
-
-- patent examiners evaluating governance‑layer architectures  
-- researchers studying autonomous multi‑agent systems  
-- big‑tech patent teams performing prior‑art analysis  
-- academic indexing systems cataloging conceptual AI governance models  
-- AI governance communities exploring non‑enabling primitives  
-
-The content in this repository is strictly conceptual and non‑enabling.  
-It provides taxonomy, structure, and governance‑layer framing only.  
-No operational logic, algorithms, thresholds, or implementation details are disclosed.
-
-## Protective Clause
-
-All conceptual elements, definitions, structures, and governance‑layer primitives described herein are published as prior art. Any attempt to patent derivative, adjacent, or re‑expressed versions of these conceptual constructs—including identity provenance, behavioral ingestion, predictive scoring, proof exchange, settlement finality, or cross‑network synchronization—is considered within the scope of this defensive publication.
-
-## Non‑Enablement Statement
-
-This repository intentionally omits all implementation details.  
-A person skilled in the art cannot construct a functional system from this text alone.  
-All proprietary embodiments remain confidential and protected under existing or pending filings.
-
-## Lineage and Consolidation
-
-This disclosure consolidates conceptual elements originating from earlier filings in the governance‑layer family. It provides a unified conceptual architecture without revealing any operational mechanisms. This ensures continuity of prior art while preserving full protection for proprietary implementations.
-
-
-
-
+⚜️ **Dario Chang**  
+Independent Inventor & Systems Architect  
+Founder, Telemetric (2003)  
